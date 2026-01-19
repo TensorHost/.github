@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="550mm"
+   height="134mm"
+   viewBox="0 0 550 134"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="TensorHost Logo White with Name.svg"
+   inkscape:export-filename="TensorHost Logo White with Name with background.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.25250454"
+     inkscape:cx="1352.4509"
+     inkscape:cy="520.78272"
+     inkscape:window-width="1448"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true"
+       dotted="true"
+       snapvisiblegridlinesonly="true" />
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid2"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <path
+     id="path2"
+     style="fill:#ffffff;stroke:#38957a;stroke-width:0.264583;stroke-opacity:0"
+     d="M 64.952108,2.5001058 12.990422,32.499825 64.952108,62.500061 116.91328,32.499825 Z m 0,15.0001182 L 90.932434,32.499825 64.952108,47.499943 38.971265,32.499825 Z" />
+  <path
+     id="path9"
+     style="fill:#ffffff;stroke:#38957a;stroke-width:0.264583;stroke-opacity:0"
+     d="M 116.91328,42.500248 69.282076,69.999862 V 129.99982 L 116.91328,102.5002 Z M 103.92286,65.000167 V 94.999886 L 82.272498,107.4999 V 77.500179 Z" />
+  <path
+     id="path9-9"
+     style="fill:#ffffff;stroke:#38957a;stroke-width:0.264583;stroke-opacity:0"
+     d="M 12.990381,42.500025 60.622364,69.999639 V 129.9996 L 12.990381,102.49998 Z M 25.981009,64.999944 V 94.999666 L 47.631726,107.49968 V 77.499956 Z" />
+  <text
+     xml:space="preserve"
+     style="font-size:105.833px;line-height:441.998px;font-family:courier;-inkscape-font-specification:courier;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:#38957a;stroke-width:0.264583;stroke-opacity:0"
+     x="333.41977"
+     y="102.5"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.833px;line-height:441.998px;font-family:'Rama Gothic E';-inkscape-font-specification:'Rama Gothic E';fill:#ffffff;stroke-width:0.264583"
+       x="333.41977"
+       y="102.5">TENSORHOST</tspan></text>
+</svg>
